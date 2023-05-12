@@ -1,0 +1,11 @@
+Model Information:
+* title:	DES200_Hut_v2
+* source:	https://sketchfab.com/3d-models/des200-hut-v2-049533ec391d4d6ea08794249d4a2147
+* author:	karinaahn5254 (https://sketchfab.com/karinaahn5254)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DES200_Hut_v2" (https://sketchfab.com/3d-models/des200-hut-v2-049533ec391d4d6ea08794249d4a2147) by karinaahn5254 (https://sketchfab.com/karinaahn5254) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
